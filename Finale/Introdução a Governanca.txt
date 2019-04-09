@@ -1,0 +1,72 @@
+
+Governa e qualidade de software
+
+Governança corporativa: - Mecanismos, tanto de incentivo quanto de monitoramento
+
+objetivos da governança - Dar transparência aos acionistas sobre as decisões tomadas na condução dos negócios
+
+
+é um sistema pela qual as organizaçoes são dirigidas, monitoradas, e incentivadas, envolvendo as praticas e os relacionamentos entre proprietarios, conselho de administração, diretoria e orgãos de controle;
+
+	
+A origem dos debates sobre governança 
+Corporativa remete a conflitos e á divergencia entre os interesses dos sócios, executivos e o melhor interesse da empresa
+
+A vertente mais aceita indica que governança corporativa surgiu para superar o "conflito de agencia" classico;
+
+- Nesta situação, o proprietario(acionista) delega a um agente especializado(administrador) o poder de decisão sobre a empresa (nos termos de lei), situação em que podem surgir divergencias;
+
+------------------------------------------------------
+
+COBIT -Control Objetives for Information Tecnology
+
+o COBIT define:
+Requisitos de negocio a serem atendidos
+
+Processos de TI que sustentam os negócios(esses processo são agrupados por finalidade dentro de uma visão de Dominios no COBIT)
+
+Recursos de TI que são aplicados na realização dos processos;
+
+O  COBIT é Um guia de práticas para que a TI alinhe sua conduta com a Governança Corporativa
+
+também é Organizado em Domínios de assuntos a serem tratados por Processos que usam Recursos
+      para atender Objetivos de negócio
+
+
+------------------------------------------------------
+ O COBIT não define como gerenciar TI mas o que deve ser feito para gerenciar TI
+------------------------------------------------------
+
+100% das empresas formais no mundo dependem de sistemas computacionais
+
+segundo o relatório do Gartner Group, em media, 75% dos projetos de TI não alcançam seus objetivos
+
+apenas 6% dos projetos de grande porte são finalizados com sucesso
+
+Maioria dos sistemas  de informação tem um ciclo de vida de 5 a 10 anos;
+------------------------------------------------------
+
+Consequencias de falta de Avaliação: PARA EMRPESAS DE SOFTWARE
+ - queda de credibilidade
+ - reduçãop da competitividade pela perda de referencias
+ - desmotivação e rotatividade da equipe em função de cargas excessivas de trabalho em função de correções e adaptaçoes em sistemas fornecidos pela empresa
+ - estresse no relacionamento com os clientes(litigios,renegociação e quebra de contratos, etc).
+
+
+A QUALIDADE DEVE SER GERENCIADA DESDE O INICIO DO PROJETO;
+Nosso objetivo então é avaliar a qualidade em todo o ciclo de vida do software
+
+
+A qualidade de software impacta a Governança em:
+
+- a não entrega de um software no prazo poder comprometer metas de negócio com o lançamento de produtos
+
+ - a falha em um software poder gerar interrupção de operações e descontinuidade de  negócios
+
+- a informação corrompida ou distorcida, armazenada e publicada via um software defeituoso, compromete a transparência e qualidade da informação para tomada de 
+decisão de negócio
+
+
+
+
+

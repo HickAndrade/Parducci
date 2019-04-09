@@ -1,0 +1,83 @@
+Governança e qualidade De software
+
+
+influenciadores de qualidade: Competencias individuais, processos e controles de trabalho, ferramentas e materiais, expectativa do cliente/ consumidor;
+
+
+anteriormente, diversos materiais foram produzidos ao longo do tempo para explicarem as melhoreas praticas a serem empregadas em um projeto de software.
+
+Os principais produtores desse tipo de conteudo são: ISO, SOFTWARE EGINNERING INSTITUTE, SOFTEX
+
+A ISO produz normas para diversas areas do conhecimento, já o SEI E O SOFTEX são focados em qualidade de software
+
+As normas e boas praticas ajudam as empresas a definirem os seus processos e promovem a possibilidade de certificação que atesta o nivel de qualidade alcançado
+
+Esses guias e normas de qualidade difundem praticas para gerenciar a qualidade total(TQM - Total Quality Management)
+
+ISO 9126 - Definição das dimensoes avaliativas do software
+(falta de qualidades, qualidades)
+A ISO 9126 traz uma proposta de modelo de avaliação, indicando aquilo que deve ser investigado e pontuado para determinar o nivel de qualidade do software;
+
+
+
+ISO 12207 -  Organização dos processos produtivos para software
+A ISO 12207 parte do principio que não basta apenas saber o que avaliar em um software e criar metas de resultados; é necessario definir metodos de trabalho que garantam o resultado desejado, define tipos de processos, grupos de processos e processos, devem ser bem escritos pela empresa de forma a explicar passo a passo como executar uma atividade, quem é responsavel e quais ferramentas deve empregar
+
+
+
+outros aspectos referentes a ISO 9126 E ISO12207
+Resultado mudam ao longo do tempo e necessitam que a qualidade sejam avaliadas estatisticamente;
+
+
+ISO 15504(SPICE) - Avaliação da capacidade do processo de software
+niveis: 
+1 - SEM PRATICAS PADRONIZADAS DE PROCESSOS
+2- PROCESSOS PRATICADOS INFORMALMENTE
+3 - PROCESSO DEFINIDO, PRATICADO E ACOMPANHADO
+4 - PROCESSO GERENCIADO QUANTITATIVAMENTE
+5 - PROCESSO MELHORADO CONTINUAMENTE
+(EXIGE UM CERTIFICADO DE NIVEL DE QUALIDADE)
+
+ISOS que trabalham aspectos da qualidade de software
+ISO 14698 - define um processo de avaliação da qualidade de produto de software
+ISO 14764 - define os tipos e os principios da manutenção de software
+ISO 28881 - padronizar metodos de mensuração do tamanho de softwares
+
+Impactos ao implantar as praticas da ISO
+ - Melhoria da visibilidade quanto a competencia
+ - compreenção dos seus problemas e causas, permitindo ação corretiva
+ - rastreabilidade dos problemas;
+ - projeção de resultados;
+
+Os modelos de gestão de qualidade não eliminam os possiveis defeitos em produtos ou serviços mas quem aplica um modelo de boas praticas de qualidade, entende como trabalha e aprende com o que faqz, gerando um ciclo de melhoria continua
+
+NBR É A COPIA DA ISO SÓ QUE DO BRASIL CARAI
+
+
+
+
+CMMI - Modelo de desenvolvimento e avaliação de capacidade e maturidade no desenvolvimento do software
+
+mps.br - Modelo brasileiro para produção de software com qualidade;
+
+
+As normas tecnicas: definem padroes obrigatorios a serem cumpridos
+guias de boas praticas: recomendam padroes que podem ser seguidos a risca, ajustados para cada empresa ou implementados parcialmente
+
+A diferença entre norma e guia de boas praticas é que uma norma pode ser objeto de certificação
+
+Garantia, Inspeção e controle de qualidade: 
+Inspeção coleta dados a respeito das atividades produtivas da empresa para formar a base de dados para avaliaçoes pelo controle da qualidade
+o desempenho empresarial depende do resultado dos trabalhos da qualidade
+
+gerencia de qualidade, o foco está em desenvolver e praticar processos de trabalho que gerem produtos e serviços dentro de paroes esperados pela empresa
+
+resultados na qualidade do produto ou serviço mudam ao longo do tempo, em função das equipes de trabalho, ferramentas e praticas
+
+avaliar qualidade requer comparar resultados com metas e portanto, exige metricas
+
+A caracteristica de qualidade manutenabilidade tem como sub caracteristica a serem avaliadas, segundo a iso, facilidade de teste, facilidade de mudança e facilidade de analise
+
+
+
+

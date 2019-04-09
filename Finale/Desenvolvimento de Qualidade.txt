@@ -1,0 +1,26 @@
+CMMI - Capability Manurity Model Integration
+Contem varias praticas no mundo para gestão da qualidade em projetos de software;
+
+O CMMI ganhou diversos modelos para atender projetos, engenharia de software, engenharia de sistemas, aquisição de software, desenvolvimento da força de trabalho
+
+Proposta do CMMI:
+ - Proporciona o desenvolvimento da capacidade da organização para fazer projetos de software com qualidade
+
+ - confirma o alcance da maturidade na gestão da qualidade de produção de software;
+
+ABORDAGEM ESTAGIADA:
+5 - Otimizado(Foco na melhoria continua de processos)
+4 - Quantitativamente Gerenciado(processos controlados e medidos estatisticamente)
+3 - Definido(processos estão documentados. Existe organização. Atividades são proativas no desenvolvimento de software)
+2 - Gerenciado (Orientação por objetos. atividades são reativas no desenvolvimento de software)
+1 - Inicial(Processos não estão claramente definidos)
+
+ABORDAGEM CONTINUA: 
+5- Otimizado(Foco na melhoria continua)
+4 - quantitativamente Gerenciado(Processos controlados e medidos estatisticamente)
+3 - definido(processos estão documentados; Existe organização; atividades são proativas no desenvolvimento do software)
+2 - Gerenciado(Orientação por objetos)
+1 - Execultado(Processos não estão claramente definidos mas existe a pratica para que possa ser analisada)
+0 - Incompleto(empresa incapaz de produzir)
+
+
